@@ -7,25 +7,25 @@ This project demonstrates the application of machine learning techniques to extr
 making it useful for businesses, social media monitoring, and customer feedback analysis.
 
 * What the Project Does -
-Processes and cleans raw text data
-Converts text into numerical format using NLP techniques
-Trains a machine learning model to classify sentiment
-Predicts sentiment (Positive / Negative / Neutral) for new input text
-Helps in understanding user opinions and trends
+Processes and cleans raw text data,
+Converts text into numerical format using NLP techniques,
+Trains a machine learning model to classify sentiment,
+Predicts sentiment (Positive / Negative / Neutral) for new input text,
+Helps in understanding user opinions and trends.
 
 * Technologies Used -
-Programming Language: Python
+Programming Language: Python,
 Libraries & Tools:
-Pandas (Data Handling)
-NumPy (Numerical Computation)
-Scikit-learn (Machine Learning)
-NLTK / TextBlob (Natural Language Processing)
-Matplotlib / Seaborn (Visualization)
-IDE: VS Code
+Pandas (Data Handling),
+NumPy (Numerical Computation),
+Scikit-learn (Machine Learning),
+NLTK / TextBlob (Natural Language Processing),
+Matplotlib / Seaborn (Visualization),
+IDE: VS Code.
 
 * How to Run the Project -
-Step 1: Clone the Repository
-cd sentiment-analysis
+Step 1: Clone the Repository,
+cd sentiment-analysis.
 
 Step 2: Install Dependencies
  
@@ -33,8 +33,8 @@ Step 3: Run the Project -
 python new.py
 
 Step 4: Test the Model -
-Provide input text (review/comment)
-The model will output sentiment classification
+Provide input text (review/comment),
+The model will output sentiment classification.
 
 * Contributors -
 Suhani A. Gharge ,

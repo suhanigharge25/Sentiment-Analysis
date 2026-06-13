@@ -36,12 +36,6 @@ Step 4: Test the Model -
 Provide input text (review/comment)
 The model will output sentiment classification
 
-* Features -
-Easy-to-use sentiment prediction
-Efficient text preprocessing pipeline
-Scalable for real-world datasets
-Can be extended to deep learning models (LSTM, BERT)
-
 * Contributors -
-Suhani A. Gharge
+Suhani A. Gharge ,
 Srujan S. Thorat

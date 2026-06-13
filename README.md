@@ -1,19 +1,19 @@
 Sentiment Analysis Project
-* Overview
+* Overview -
 This project focuses on Sentiment Analysis, a Natural Language Processing (NLP) task used to determine whether a given text expresses a
  positive, negative, or neutral sentiment. The system analyzes textual data such as reviews, comments, or feedback and classifies the
 emotional tone behind it.
 This project demonstrates the application of machine learning techniques to extract meaningful insights from unstructured text data,
 making it useful for businesses, social media monitoring, and customer feedback analysis.
 
-* What the Project Does
+* What the Project Does -
 Processes and cleans raw text data
 Converts text into numerical format using NLP techniques
 Trains a machine learning model to classify sentiment
 Predicts sentiment (Positive / Negative / Neutral) for new input text
 Helps in understanding user opinions and trends
 
-* Technologies Used
+* Technologies Used -
 Programming Language: Python
 Libraries & Tools:
 Pandas (Data Handling)
@@ -23,25 +23,25 @@ NLTK / TextBlob (Natural Language Processing)
 Matplotlib / Seaborn (Visualization)
 IDE: VS Code
 
-* How to Run the Project
+* How to Run the Project -
 Step 1: Clone the Repository
 cd sentiment-analysis
 
 Step 2: Install Dependencies
  
-Step 3: Run the Project
+Step 3: Run the Project -
 python new.py
 
-Step 4: Test the Model
+Step 4: Test the Model -
 Provide input text (review/comment)
 The model will output sentiment classification
 
-* Features
+* Features -
 Easy-to-use sentiment prediction
 Efficient text preprocessing pipeline
 Scalable for real-world datasets
 Can be extended to deep learning models (LSTM, BERT)
 
-* Contributors
+* Contributors -
 Suhani A. Gharge
 Srujan S. Thorat
